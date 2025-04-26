@@ -50,14 +50,14 @@ const Header: React.FC = () => {
             href="/"
             className="hover:text-gray-700 transition duration-300"
           >
-            {t("saveTiktokVideo")}
+            {t("general.saveTiktokVideo")}
 
           </Link>
           <Link
             href="/mp3"
             className="hover:text-gray-700 transition duration-300"
           >
-           {t("tiktokMp3")}
+           {t("general.tiktokMp3")}
 
           </Link>
 
@@ -132,10 +132,10 @@ const Header: React.FC = () => {
       {isMenuOpen && (
         <div className="md:hidden bg-white shadow-lg p-4 space-y-3 animate-slide-down text-gray-800">
           <Link href="/" className="block hover:text-blue-600">
-          {t("saveTiktokVideo")}
+          {t("general.saveTiktokVideo")}
           </Link>
           <Link href="/mp3" className="block hover:text-blue-600">
-          {t("tiktokMp3")}
+          {t("general.tiktokMp3")}
 
           </Link>
 
