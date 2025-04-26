@@ -1,10 +1,12 @@
 {
-    "appName": "Meine App",
-    "home": "Startseite",
-    "contactUs": "Kontakt",
-    "termsOfUse": "Nutzungsbedingungen",
-    "privacyPolicy": "Datenschutzrichtlinie",
-    "footerText": "© 2025 Meine App. Alle Rechte vorbehalten.",
-    "welcome": "Willkommen bei Meine App",
-    "homeDescription": "Dies ist die Startseite unserer Anwendung."
-  }
+  "saveTiktokVideo": "TikTok Video speichern",
+  "tiktokMp3": "TikTok MP3 Downloader",
+  "appName": "Meine App",
+  "home": "Startseite",
+  "contactUs": "Kontakt",
+  "termsOfUse": "Nutzungsbedingungen",
+  "privacyPolicy": "Datenschutzrichtlinie",
+  "footerText": "© 2025 Meine App. Alle Rechte vorbehalten.",
+  "welcome": "Willkommen bei Meine App",
+  "homeDescription": "Dies ist die Startseite unserer Anwendung."
+}

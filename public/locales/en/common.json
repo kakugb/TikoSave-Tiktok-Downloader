@@ -1,4 +1,6 @@
 {
+  "saveTiktokVideo": "Save TikTok Video",
+  "tiktokMp3": "TikTok MP3 Downloader",
     "appName": "My App",
     "home": "Home",
     "contactUs": "Contact Us",
@@ -7,4 +9,5 @@
     "footerText": "© 2025 My App. All rights reserved.",
     "welcome": "Welcome to My App",
     "homeDescription": "This is the homepage of our application."
+    
   }

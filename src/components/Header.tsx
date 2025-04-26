@@ -50,13 +50,15 @@ const Header: React.FC = () => {
             href="/"
             className="hover:text-gray-700 transition duration-300"
           >
-            {t("saveTiktokVideo", "Save TikTok Video")}
+            {t("saveTiktokVideo")}
+
           </Link>
           <Link
             href="/mp3"
             className="hover:text-gray-700 transition duration-300"
           >
-            {t("tiktokMp3", "TikTok MP3 Downloader")}
+           {t("tiktokMp3")}
+
           </Link>
 
           {/* Language Dropdown */}
@@ -130,19 +132,27 @@ const Header: React.FC = () => {
       {isMenuOpen && (
         <div className="md:hidden bg-white shadow-lg p-4 space-y-3 animate-slide-down text-gray-800">
           <Link href="/" className="block hover:text-blue-600">
-            {t("saveTiktokVideo", "Save TikTok Video")}
+          {t("saveTiktokVideo")}
           </Link>
           <Link href="/mp3" className="block hover:text-blue-600">
-            {t("tiktokMp3", "TikTok MP3 Downloader")}
+          {t("tiktokMp3")}
+
           </Link>
 
           {/* Language Dropdown */}
           <div className="pt-2 border-t">
             <div
-              className="flex justify-between items-center cursor-pointer"
+              className="flex gap-x-3 cursor-pointer"
               onClick={() => setIsMobileDropdownOpen(!isMobileDropdownOpen)}
             >
-              <h3 className="font-semibold">{locale?.toUpperCase()}</h3>
+             {languages.find((lang) => lang.code === locale)?.flag && (
+                <img
+                  src={languages.find((lang) => lang.code === locale)?.flag}
+                  alt={locale}
+                  className="w-5 h-3 mr-2 my-auto"
+                />
+              )}
+              Languages{" "}
               <ChevronDown
                 className={`transition-transform duration-300 ${
                   isMobileDropdownOpen ? "rotate-180" : "rotate-0"
