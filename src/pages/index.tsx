@@ -260,7 +260,7 @@ const Home: React.FC = () => {
 
       {/* Responsible Use Section */}
       <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <h1 className="w-full mt-4 text-2xl sm:text-3xl font-semibold text-center text-white bg-teal-500 py-3 rounded-md">
+        <h1 className="w-full mt-4 text-5xl sm:text-3xl font-semibold text-center text-white bg-teal-500 py-3 rounded-md ">
           {t("responsibleUseSection.title")}
         </h1>
         {(t("responsibleUseSection.paragraphs", { returnObjects: true }) as string[]).map((paragraph, index) => (

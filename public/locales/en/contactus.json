@@ -1,6 +1,7 @@
 {
-    "title": "Contact Us",
-    "description": "Get in touch with us for any inquiries.",
-    "email": "Email",
-    "phone": "Phone"
-  }
+  "title": "Contact Us",
+  "description": "If you have any questions or would like to report errors, please send us an email in English.",
+  "faq_instruction": "Please check the FAQ page if you have a question. If reporting an error, please include details of error message or code in the email.",
+  "email_instruction": "The email address of SaveTT is",
+  "email": "support@savett.cc"
+}

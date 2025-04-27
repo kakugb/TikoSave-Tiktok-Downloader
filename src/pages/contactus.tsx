@@ -5,14 +5,14 @@ const ContactUs: React.FC = () => {
   const { t } = useTranslation('contactus');
 
   return (
-    <div>
-      <h1 className="text-3xl font-bold">{t('title')}</h1>
-      <p>{t('description')}</p>
-      <div className="mt-4">
-        <p>{t('email')}: support@example.com</p>
-        <p>{t('phone')}: +123-456-7890</p>
+    <>
+      <h1 className="text-5xl text-center text-teal-500 py-4 font-bold">{t('title')}</h1>
+      <div className="w-7xl mx-auto">
+        <p className="text-xl">{t('description')}</p>
+        <p className="text-xl mt-4">{t('faq_instruction')}</p>
+        <p className="text-xl mt-4">{t('email_instruction')}: {t('email')}</p>
       </div>
-    </div>
+    </>
   );
 };
 

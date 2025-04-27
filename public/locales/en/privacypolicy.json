@@ -1,4 +1,26 @@
 {
-    "title": "Privacy Policy",
-    "description": "Our privacy policy outlines how we handle your data."
-  }
+  "title": "Privacy Policy",
+  "description": "Read our Privacy Policy to understand how YourSiteName handles your personal information, cookies, and data usage.",
+  "last_revised": "Last Revised",
+  "revision_date": "April 19, 2025",
+  "intro": "Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of this website and the services offered on and through it (the “Service”), including information you provide when using it.",
+  "age_restriction": "We strictly limit the Service to adults over 18 years of age (or age of majority in your jurisdiction). We do not knowingly collect personal data from anyone under this age.",
+  "data_collected_title": "Data Collected",
+  "data_collected_using_service_title": "Using the Service",
+  "data_collected_using_service": "We collect non-personal data like IP address, country, device info, etc.",
+  "data_collected_usage_info_title": "Usage Information",
+  "data_collected_usage_info": "Search terms, downloads, and activity may be logged.",
+  "data_collected_uploaded_content_title": "Uploaded Content",
+  "data_collected_uploaded_content": "Any uploaded files may be stored.",
+  "data_collected_correspondence_title": "Correspondence",
+  "data_collected_correspondence": "Messages exchanged with us may be recorded.",
+  "data_collected_cookies_title": "Cookies",
+  "data_collected_cookies": "We use cookies for session handling and personalization.",
+  "data_usage_title": "Data Usage",
+  "data_usage_purpose": "Information collected helps us enhance your experience, store preferences, analyze performance, and offer personalized content or ads.",
+  "data_usage_sharing": "Aggregated, anonymized data may be shared with partners or advertisers.",
+  "disclosures_title": "Disclosures of Information",
+  "disclosures_purpose": "We may disclose your data to comply with legal obligations, enforce our Terms of Use, or protect our users and systems from harm or misuse.",
+  "security_title": "Security Notice",
+  "security_notice": "While we use standard security measures to protect your data, no online transmission is 100% secure. You share information at your own risk."
+}
