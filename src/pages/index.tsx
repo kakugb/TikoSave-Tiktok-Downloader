@@ -1,25 +1,33 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import { reviews, faqData, faqAnswers } from "../utils/data";
 import { ClipboardPaste } from "lucide-react";
 import Image from "next/image";
 import { FaCheckCircle, FaTimesCircle } from "react-icons/fa";
 import { useTranslation } from "next-i18next";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
-import {CommonTranslations} from '../types/translations'
+import { CommonTranslations } from "../types/translations";
 
+interface Review {
+  name: string;
+  flag: string;
+  stars: string;
+  comment: string;
+}
 
 const Home: React.FC = () => {
   const { t } = useTranslation("common");
   const [openFAQ, setOpenFAQ] = useState<number | null>(null);
   const [currentIndex, setCurrentIndex] = useState(0);
 
+  // Fetch reviews from translations
+  const reviews: Review[] = t("userReviewsSection.reviews", { returnObjects: true }) as Review[];
+
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentIndex((prevIndex) => (prevIndex + 1) % reviews.length);
     }, 3000);
     return () => clearInterval(interval);
-  }, []);
+  }, [reviews.length]);
 
   const toggleFAQ = (index: number) => {
     setOpenFAQ(openFAQ === index ? null : index);
@@ -76,22 +84,22 @@ const Home: React.FC = () => {
 
       {/* How to Download Section */}
       <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-  <h1 className="w-full mt-4 text-2xl sm:text-3xl font-semibold text-center text-white bg-teal-500 py-3 rounded-md">
-    {t("howToDownloadSection.title")}
-  </h1>
-  <p className="mt-4 leading-7 text-gray-600 text-base sm:text-lg">{t("howToDownloadSection.description")}</p>
-  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
-    {(
-      t("howToDownloadSection.steps", { returnObjects: true }) as { title: string; description: string; image: string }[]
-    ).map((step, index) => (
-      <div key={index} className="p-6 rounded-lg shadow-lg flex flex-col items-center">
-        <Image src={step.image} alt={`Step ${index + 1} Icon`} width={52} height={52} className="mb-2" />
-        <h3 className="text-xl font-bold mt-2 text-gray-700">{step.title}</h3>
-        <p className="mt-2 text-center text-gray-600 font-poppins">{step.description}</p>
+        <h1 className="w-full mt-4 text-2xl sm:text-3xl font-semibold text-center text-white bg-teal-500 py-3 rounded-md">
+          {t("howToDownloadSection.title")}
+        </h1>
+        <p className="mt-4 leading-7 text-gray-600 text-base sm:text-lg">{t("howToDownloadSection.description")}</p>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
+          {(
+            t("howToDownloadSection.steps", { returnObjects: true }) as { title: string; description: string; image: string }[]
+          ).map((step, index) => (
+            <div key={index} className="p-6 rounded-lg shadow-lg flex flex-col items-center">
+              <Image src={step.image} alt={`Step ${index + 1} Icon`} width={52} height={52} className="mb-2" />
+              <h3 className="text-xl font-bold mt-2 text-gray-700">{step.title}</h3>
+              <p className="mt-2 text-center text-gray-600 font-poppins">{step.description}</p>
+            </div>
+          ))}
+        </div>
       </div>
-    ))}
-  </div>
-</div>
 
       {/* Why Need Downloader Section */}
       <div className="w-full max-w-7xl bg-gray-100 mx-auto px-4 sm:px-6 lg:px-8 py-8 rounded-xl">
@@ -103,7 +111,6 @@ const Home: React.FC = () => {
             {paragraph}
           </p>
         ))}
-        
       </div>
 
       {/* Download on Android Section */}
@@ -140,11 +147,8 @@ const Home: React.FC = () => {
         <ul className="mt-4 sm:mt-6 ml-4 sm:ml-6 leading-8 text-gray-600 text-base sm:text-lg list-disc list-inside">
           {(t("downloadOnIOSSection.steps", { returnObjects: true }) as string[]).map((step, index) => (
             <li key={index}>{step}</li>
-            
           ))}
-          
         </ul>
-      
       </div>
 
       {/* Download MP3 Section */}
@@ -284,7 +288,7 @@ const Home: React.FC = () => {
       <div className="w-full max-w-7xl mx-auto px-4 my-10 pb-10 rounded-lg">
         <h2 className="text-3xl font-bold text-center text-gray-600 py-5 rounded-t-lg mb-5">{t("faqSection.title")}</h2>
         <div>
-          {faqData.map((question, index) => (
+          {(t("faqSection.questions", { returnObjects: true }) as string[]).map((question, index) => (
             <div
               key={index}
               className={`border-b ${openFAQ === index ? "border-purple-700" : "border-gray-300"}`}
@@ -316,7 +320,9 @@ const Home: React.FC = () => {
                   openFAQ === index ? "scale-y-100 p-4 bg-white" : "scale-y-0 h-0"
                 }`}
               >
-                <p className="text-gray-700 pt-3 pl-4">{faqAnswers[index]}</p>
+                <p className="text-gray-700 pt-3 pl-4">
+                  {(t("faqSection.answers", { returnObjects: true }) as string[])[index]}
+                </p>
               </div>
             </div>
           ))}

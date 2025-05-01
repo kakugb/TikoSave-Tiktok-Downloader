@@ -12,7 +12,7 @@ const TermOfUse: React.FC = () => {
   const { t } = useTranslation('termofuse');
 
   return (
-    <section className="bg-white text-gray-900 dark:bg-gray-900 dark:text-white py-12 px-4">
+    <section className="bg-white text-gray-900  py-12 px-4">
       <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-bold text-center text-teal-500 mb-10">
           {t('title')}
