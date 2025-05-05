@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
         {/* Footer Links */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
           <div>
-            <h3 className="text-xl font-bold text-teal-600 mb-4">
+            <h3 className="text-2xl font-bold text-teal-600 mb-4 ">
               {t('legal', 'Legal')}
             </h3>
             <nav aria-label="Legal navigation">
@@ -40,7 +40,7 @@ const Footer: React.FC = () => {
           </div>
 
           <div>
-            <h3 className="text-xl font-bold text-teal-600 mb-4">
+            <h3 className="text-2xl font-bold text-teal-600 mb-4">
               {t('support', 'Support')}
             </h3>
             <nav aria-label="Support navigation">
@@ -53,20 +53,13 @@ const Footer: React.FC = () => {
                     {t('contactUs', 'Contact Us')}
                   </Link>
                 </li>
-                <li>
-                  <Link
-                    href="/faq"
-                    className="text-base font-semibold hover:text-teal-500 hover:underline hover:scale-105 transition-all duration-200"
-                  >
-                    {t('faq', 'FAQ')}
-                  </Link>
-                </li>
+                
               </ul>
             </nav>
           </div>
 
           <div>
-            <h3 className="text-xl font-bold text-teal-600 mb-4">
+            <h3 className="text-2xl font-bold text-teal-600 mb-4">
               {t('connect', 'Connect With Us')}
             </h3>
             <nav aria-label="Social media navigation">
