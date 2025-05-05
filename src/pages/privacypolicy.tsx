@@ -1,3 +1,4 @@
+'use client';
 import { Metadata } from 'next';
 import { useTranslation } from 'next-i18next';
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
@@ -24,83 +25,97 @@ export const metadata: Metadata = {
 const PrivacyPolicy: React.FC = () => {
   const { t } = useTranslation('privacypolicy');
 
+  // Fallback function to handle missing translations
+  const translate = (key: string, fallback: string = key) => t(key) || fallback;
+
   return (
     <section className="bg-gray-50 text-gray-900 py-16 px-4 sm:px-6 lg:px-8">
       <div className="max-w-5xl mx-auto">
         <header className="text-center mb-12">
           <h1 className="text-4xl sm:text-5xl font-extrabold text-teal-600 mb-4">
-            {t('title')}
+            {translate('title', 'Privacy Policy')}
           </h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            {t('description')}
+            {translate('description', 'Learn about our privacy practices.')}
           </p>
           <p className="text-base text-gray-500 mt-2">
-            {t('last_revised')}: <span className="font-medium">{t('revision_date')}</span>
+            {translate('last_revised', 'Last Revised')}: <span className="font-medium">{translate('revision_date', 'Unknown')}</span>
           </p>
         </header>
 
         <article className="space-y-12 text-base sm:text-lg leading-relaxed bg-white p-8 rounded-lg shadow-lg">
           <section>
             <h2 className="text-2xl sm:text-3xl font-semibold text-teal-500 mb-4">
-              {t('intro_title')}
+              {translate('intro_title', 'Introduction')}
             </h2>
-            <p>{t('intro')}</p>
+            <p>{translate('intro')}</p>
           </section>
 
           <section>
             <h2 className="text-2xl sm:text-3xl font-semibold text-teal-500 mb-4">
-              {t('personal_info_title')}
+              {translate('personal_info_title', 'Personal Identification Information')}
             </h2>
-            <p>{t('personal_info')}</p>
+            <p>{translate('personal_info')}</p>
           </section>
 
           <section>
             <h2 className="text-2xl sm:text-3xl font-semibold text-teal-500 mb-4">
-              {t('non_personal_info_title')}
+              {translate('non_personal_info_title', 'Non-Personal Identification Information')}
             </h2>
-            <p>{t('non_personal_info')}</p>
+            <p>{translate('non_personal_info')}</p>
           </section>
 
           <section>
             <h2 className="text-2xl sm:text-3xl font-semibold text-teal-500 mb-4">
-              {t('cookies_title')}
+              {translate('cookies_title', 'Web Browser Cookies')}
             </h2>
-            <p>{t('cookies')}</p>
+            <p>{translate('cookies')}</p>
           </section>
 
           <section>
             <h2 className="text-2xl sm:text-3xl font-semibold text-teal-500 mb-4">
-              {t('data_usage_title')}
+              {translate('data_usage_title', 'How We Use Collected Information')}
             </h2>
-            <p>{t('data_usage')}</p>
+            <p>{translate('data_usage')}</p>
           </section>
 
           <section>
             <h2 className="text-2xl sm:text-3xl font-semibold text-teal-500 mb-4">
-              {t('advertising_title')}
+              {translate('advertising_title', 'Advertising')}
             </h2>
-            <p>{t('advertising')}</p>
+            <p>{translate('advertising')}</p>
           </section>
 
           <section>
             <h2 className="text-2xl sm:text-3xl font-semibold text-teal-500 mb-4">
-              {t('google_adsense_title')}
+              {translate('google_adsense_title', 'Google AdSense')}
             </h2>
-            <p>{t('google_adsense')}</p>
+            <p>
+              {translate('google_adsense').split('https://policies.google.com/technologies/ads')[0]}
+              <a
+                href="https://policies.google.com/technologies/ads"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-teal-500 hover:text-teal-600 hover:underline transition-all duration-200"
+              >
+                https://policies.google.com/technologies/ads
+              </a>
+              .
+            </p>
           </section>
 
           <section>
             <h2 className="text-2xl sm:text-3xl font-semibold text-teal-500 mb-4">
-              {t('policy_changes_title')}
+              {translate('policy_changes_title', 'Changes to This Privacy Policy')}
             </h2>
-            <p>{t('policy_changes')}</p>
+            <p>{translate('policy_changes')}</p>
           </section>
 
           <section>
             <h2 className="text-2xl sm:text-3xl font-semibold text-teal-500 mb-4">
-              {t('acceptance_title')}
+              {translate('acceptance_title', 'Your Acceptance of These Terms')}
             </h2>
-            <p>{t('acceptance')}</p>
+            <p>{translate('acceptance')}</p>
           </section>
         </article>
       </div>
