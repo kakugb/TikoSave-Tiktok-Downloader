@@ -3,7 +3,7 @@ export const languages = [
     { name: "Deutsch", code: "de", flag: "https://flagcdn.com/w40/de.png" },
     { name: "Français", code: "fr", flag: "https://flagcdn.com/w40/fr.png" },
     { name: "Español", code: "es", flag: "https://flagcdn.com/w40/es.png" },
-    { name: "Italiano", code: "it", flag: "https://flagcdn.com/w40/it.png" },
+    //{ name: "Italiano", code: "It", flag: "https://flagcdn.com/w40/it.png" },
     { name: "Português", code: "pt", flag: "https://flagcdn.com/w40/pt.png" },
     { name: "Türkçe", code: "tr", flag: "https://flagcdn.com/w40/tr.png" },
     { name: "Nederlands", code: "nl", flag: "https://flagcdn.com/w40/nl.png" },
@@ -12,7 +12,7 @@ export const languages = [
     {
       name: "Bahasa Indonesia",
       code: "id",
-      flag: "https://flagcdn.com/w40/id.png",
+      flag: "https://flagcdn.com/w40/id.png", 
     },
     { name: "日本語", code: "ja", flag: "https://flagcdn.com/w40/jp.png" },
     { name: "한국어", code: "ko", flag: "https://flagcdn.com/w40/kr.png" },

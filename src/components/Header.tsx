@@ -33,7 +33,7 @@ const Header: React.FC = () => {
     <div className="sticky top-0 z-50 bg-white shadow-md text-gray-600">
       <nav className="flex justify-around items-center max-w-full mx-auto px-4 py-4 h-[90px]">
         {/* Logo */}
-        <Link href="/">
+        <Link href="/" locale="en">
           <Image
             src="/tikologo.jpg"
             alt="Logo"
@@ -51,14 +51,12 @@ const Header: React.FC = () => {
             className="hover:text-gray-700 transition duration-300"
           >
             {t("general.saveTiktokVideo")}
-
           </Link>
           <Link
             href="/mp3"
             className="hover:text-gray-700 transition duration-300"
           >
-           {t("general.tiktokMp3")}
-
+            {t("general.tiktokMp3")}
           </Link>
 
           {/* Language Dropdown */}
@@ -132,11 +130,10 @@ const Header: React.FC = () => {
       {isMenuOpen && (
         <div className="md:hidden bg-white shadow-lg p-4 space-y-3 animate-slide-down text-gray-800">
           <Link href="/" className="block hover:text-blue-600">
-          {t("general.saveTiktokVideo")}
+            {t("general.saveTiktokVideo")}
           </Link>
           <Link href="/mp3" className="block hover:text-blue-600">
-          {t("general.tiktokMp3")}
-
+            {t("general.tiktokMp3")}
           </Link>
 
           {/* Language Dropdown */}
@@ -145,7 +142,7 @@ const Header: React.FC = () => {
               className="flex gap-x-3 cursor-pointer"
               onClick={() => setIsMobileDropdownOpen(!isMobileDropdownOpen)}
             >
-             {languages.find((lang) => lang.code === locale)?.flag && (
+              {languages.find((lang) => lang.code === locale)?.flag && (
                 <img
                   src={languages.find((lang) => lang.code === locale)?.flag}
                   alt={locale}
