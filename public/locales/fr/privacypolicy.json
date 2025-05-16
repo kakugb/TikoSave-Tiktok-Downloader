@@ -1,4 +1,24 @@
 {
-    "title": "Kebijakan Privasi",
-    "description": "Kebijakan privasi kami menjelaskan bagaimana kami menangani data Anda."
-  }
+  "title": "Politique de confidentialité",
+  "description": "Découvrez comment Tmate.cc gère vos informations personnelles et non personnelles, les cookies et l'utilisation des données dans notre politique de confidentialité.",
+  "last_revised": "Dernière révision",
+  "revision_date": "5 mai 2025",
+  "intro_title": "Introduction",
+  "intro": "Veuillez prendre un moment pour vous familiariser avec nos pratiques de confidentialité et contactez-nous si vous avez des questions.",
+  "personal_info_title": "Informations d'identification personnelle",
+  "personal_info": "Nous pouvons collecter des informations d'identification personnelle des utilisateurs de diverses manières, y compris, mais sans s'y limiter, lorsque les utilisateurs visitent notre site, remplissent un formulaire, et en lien avec d'autres activités, services, fonctionnalités ou ressources que nous mettons à disposition sur notre site. Les utilisateurs peuvent visiter notre site de manière anonyme. Nous ne collecterons des informations d'identification personnelle des utilisateurs que s'ils nous les fournissent volontairement. Les utilisateurs peuvent toujours refuser de fournir des informations d'identification personnelle, sauf que cela peut les empêcher de participer à certaines activités liées au site.",
+  "non_personal_info_title": "Informations d'identification non personnelle",
+  "non_personal_info": "Nous pouvons collecter des informations d'identification non personnelle sur les utilisateurs chaque fois qu'ils interagissent avec notre site. Les informations d'identification non personnelle peuvent inclure le nom du navigateur, le type d'ordinateur et des informations techniques sur les moyens de connexion des utilisateurs à notre site, telles que le système d'exploitation, les fournisseurs de services Internet utilisés et d'autres informations similaires.",
+  "cookies_title": "Cookies de navigateur web",
+  "cookies": "Notre site peut utiliser des « cookies » pour améliorer l'expérience de l'utilisateur. Le navigateur web de l'utilisateur place des cookies sur son disque dur à des fins d'enregistrement et parfois pour suivre des informations à leur sujet. L'utilisateur peut choisir de configurer son navigateur web pour refuser les cookies ou pour l'alerter lorsque des cookies sont envoyés. S'il le fait, notez que certaines parties du site peuvent ne pas fonctionner correctement.",
+  "data_usage_title": "Comment nous utilisons les informations collectées",
+  "data_usage": "Tmate.cc ne collecte ni ne stocke vos données, point final.",
+  "advertising_title": "Publicité",
+  "advertising": "Les publicités apparaissant sur notre site peuvent être fournies aux utilisateurs par des partenaires publicitaires, qui peuvent définir des cookies. Ces cookies permettent au serveur publicitaire de reconnaître votre ordinateur chaque fois qu'il vous envoie une publicité en ligne pour compiler des informations d'identification non personnelle sur vous ou d'autres personnes utilisant votre ordinateur. Ces informations permettent aux réseaux publicitaires, entre autres, de diffuser des publicités ciblées qu'ils estiment être les plus intéressantes pour vous. Cette politique de confidentialité ne couvre pas l'utilisation des cookies par les annonceurs.",
+  "google_adsense_title": "Google AdSense",
+  "google_adsense": "Certaines des publicités peuvent être fournies par Google. L'utilisation du cookie DART par Google lui permet de diffuser des publicités aux utilisateurs en fonction de leur visite sur notre site et d'autres sites sur Internet. DART utilise des « informations non personnellement identifiables » et NE suit PAS les informations personnelles vous concernant, telles que votre nom, adresse e-mail, adresse physique, etc. Vous pouvez désactiver l'utilisation du cookie DART en visitant la politique de confidentialité du réseau publicitaire et de contenu de Google à l'adresse https://policies.google.com/technologies/ads.",
+  "policy_changes_title": "Modifications de cette politique de confidentialité",
+  "policy_changes": "Tmate.cc a le droit de mettre à jour cette politique de confidentialité à tout moment. Lorsque nous le ferons, nous publierons une notification sur la page principale de notre site, réviserons la date de mise à jour en bas de cette page. Nous encourageons les utilisateurs à vérifier fréquemment cette page pour tout changement afin de rester informés sur la manière dont nous aidons à protéger les informations personnelles que nous collectons. Vous reconnaissez et acceptez qu'il est de votre responsabilité de revoir cette politique de confidentialité périodiquement et de prendre connaissance des modifications.",
+  "acceptance_title": "Votre acceptation de ces conditions",
+  "acceptance": "En utilisant ce site, vous signifiez votre acceptation de cette politique. Si vous n'êtes pas d'accord avec cette politique, veuillez ne pas utiliser notre site. Votre utilisation continue du site après la publication de modifications de cette politique sera considérée comme votre acceptation de ces modifications."
+}

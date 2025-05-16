@@ -1,6 +1,9 @@
 {
-    "title": "Hubungi Kami",
-    "description": "Hubungi kami untuk pertanyaan apa pun.",
-    "email": "Email",
-    "phone": "Telepon"
-  }
+  "title": "Nous contacter",
+  "description": "Si vous avez des questions ou souhaitez signaler des erreurs, veuillez nous envoyer un e-mail en anglais.",
+  "faq_instruction": "Veuillez consulter la page FAQ si vous avez une question. Si vous signalez une erreur, veuillez inclure les détails du message d'erreur ou du code dans l'e-mail.",
+  "faq_link": "FAQ",
+  "email_instruction": "L'adresse e-mail de SaveTT est",
+  "email": "support@savett.cc",
+  "connect_title": "Connectez-vous avec nous"
+}
