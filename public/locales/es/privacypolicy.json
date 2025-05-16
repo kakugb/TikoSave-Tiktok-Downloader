@@ -1,4 +1,24 @@
 {
-    "title": "Kebijakan Privasi",
-    "description": "Kebijakan privasi kami menjelaskan bagaimana kami menangani data Anda."
-  }
+  "title": "Política de Privacidad",
+  "description": "Conozca cómo Tmate.cc maneja su información personal y no personal, cookies y el uso de datos en nuestra Política de Privacidad.",
+  "last_revised": "Última Revisión",
+  "revision_date": "5 de mayo de 2025",
+  "intro_title": "Introducción",
+  "intro": "Por favor, tómese un momento para familiarizarse con nuestras prácticas de privacidad y contáctenos si tiene alguna pregunta.",
+  "personal_info_title": "Información de Identificación Personal",
+  "personal_info": "Podemos recopilar información de identificación personal de los Usuarios de diversas maneras, incluyendo, pero no limitado a, cuando los Usuarios visitan nuestro sitio, llenan un formulario, y en conexión con otras actividades, servicios, funciones o recursos que ponemos a disposición en nuestro Sitio. Los Usuarios pueden visitar nuestro Sitio de forma anónima. Recopilaremos información de identificación personal de los Usuarios solo si nos la proporcionan voluntariamente. Los Usuarios siempre pueden negarse a proporcionar información de identificación personal, salvo que esto pueda impedirles participar en ciertas actividades relacionadas con el Sitio.",
+  "non_personal_info_title": "Información de Identificación No Personal",
+  "non_personal_info": "Podemos recopilar información de identificación no personal sobre los Usuarios cada vez que interactúan con nuestro Sitio. La información de identificación no personal puede incluir el nombre del navegador, el tipo de computadora e información técnica sobre los medios de conexión de los Usuarios a nuestro Sitio, como el sistema operativo, los proveedores de servicios de Internet utilizados y otra información similar.",
+  "cookies_title": "Cookies del Navegador Web",
+  "cookies": "Nuestro Sitio puede usar 'cookies' para mejorar la experiencia del Usuario. El navegador web del Usuario coloca cookies en su disco duro con fines de registro y, a veces, para rastrear información sobre ellos. El Usuario puede optar por configurar su navegador web para rechazar cookies o para que le avise cuando se envíen cookies. Si lo hace, tenga en cuenta que algunas partes del Sitio pueden no funcionar correctamente.",
+  "data_usage_title": "Cómo Usamos la Información Recopilada",
+  "data_usage": "Tmate.cc no recopila ni almacena sus datos, punto.",
+  "advertising_title": "Publicidad",
+  "advertising": "Los anuncios que aparecen en nuestro sitio pueden ser proporcionados a los Usuarios por socios publicitarios, quienes pueden establecer cookies. Estas cookies permiten que el servidor de anuncios reconozca su computadora cada vez que le envían un anuncio en línea para recopilar información de identificación no personal sobre usted u otros que usan su computadora. Esta información permite a las redes publicitarias, entre otras cosas, ofrecer anuncios dirigidos que creen que serán de mayor interés para usted. Esta política de privacidad no cubre el uso de cookies por parte de los anunciantes.",
+  "google_adsense_title": "Google AdSense",
+  "google_adsense": "Algunos de los anuncios pueden ser proporcionados por Google. El uso del cookie DART por parte de Google le permite ofrecer anuncios a los Usuarios basados en su visita a nuestro Sitio y otros sitios en Internet. DART usa 'información no personalmente identificable' y NO rastrea información personal sobre usted, como su nombre, dirección de correo electrónico, dirección física, etc. Puede optar por no usar el cookie DART visitando la política de privacidad de la red de anuncios y contenido de Google en https://policies.google.com/technologies/ads.",
+  "policy_changes_title": "Cambios en esta Política de Privacidad",
+  "policy_changes": "Tmate.cc tiene la discreción de actualizar esta política de privacidad en cualquier momento. Cuando lo hagamos, publicaremos una notificación en la página principal de nuestro Sitio, revisaremos la fecha de actualización al final de esta página. Animamos a los Usuarios a revisar frecuentemente esta página para cualquier cambio y mantenerse informados sobre cómo estamos ayudando a proteger la información personal que recopilamos. Usted reconoce y acepta que es su responsabilidad revisar esta política de privacidad periódicamente y estar al tanto de las modificaciones.",
+  "acceptance_title": "Su Aceptación de Estos Términos",
+  "acceptance": "Al usar este Sitio, usted indica su aceptación de esta política. Si no está de acuerdo con esta política, por favor no use nuestro Sitio. Su uso continuo del Sitio tras la publicación de cambios en esta política se considerará como su aceptación de dichos cambios."
+}
