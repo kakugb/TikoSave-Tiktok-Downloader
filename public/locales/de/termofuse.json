@@ -1,4 +1,22 @@
 {
-    "title": "Nutzungsbedingungen",
-    "description": "Dies sind die Bedingungen für die Nutzung unseres Dienstes."
-  }
+  "title": "Nutzungsbedingungen",
+  "description": "Lesen Sie die Nutzungsbedingungen für Tmate.cc. Verstehen Sie Ihre Rechte, Pflichten und rechtlichen Haftungsausschlüsse bei der Nutzung unserer TikTok-Video-Downloader-Website.",
+  "agreement_title": "Zustimmung zu den Bedingungen",
+  "agreement_description": "Durch den Zugriff auf diese Website erklären Sie sich damit einverstanden, an diese Nutzungsbedingungen der Website, alle geltenden Gesetze und Vorschriften gebunden zu sein und stimmen zu, dass Sie für die Einhaltung aller geltenden lokalen Gesetze verantwortlich sind. Wenn Sie mit einer dieser Bedingungen nicht einverstanden sind, ist Ihnen die Nutzung oder der Zugriff auf diese Website untersagt.",
+  "license_title": "Nutzungslizenz",
+  "license_description": "Es wird die Erlaubnis erteilt, vorübergehend eine Kopie der Materialien (Informationen oder Software) auf der Website von Tmate.cc ausschließlich für persönliche, nicht-kommerzielle, vorübergehende Betrachtung herunterzuladen. Dies ist die Erteilung einer Lizenz, kein Eigentumsübergang, und unter dieser Lizenz dürfen Sie nicht:",
+  "license_restriction_1": "Die Materialien verändern oder kopieren;",
+  "license_restriction_2": "Die Materialien für kommerzielle Zwecke oder für öffentliche Vorführungen (kommerziell oder nicht-kommerziell) verwenden;",
+  "license_restriction_3": "Urheberrechts- oder andere Eigentumsvermerke von den Materialien entfernen;",
+  "license_restriction_4": "Die Materialien an eine andere Person weitergeben oder die Materialien auf einem anderen Server „spiegeln“.",
+  "disclaimer_title": "Haftungsausschluss",
+  "disclaimer_description": "Die Materialien auf der Website von Tmate.cc werden „wie besehen“ bereitgestellt. Tmate.cc gibt keine ausdrücklichen oder stillschweigenden Garantien und lehnt hiermit alle anderen Garantien ab, einschließlich, aber nicht beschränkt auf, stillschweigende Garantien oder Bedingungen der Marktgängigkeit, Eignung für einen bestimmten Zweck oder Nichtverletzung von geistigem Eigentum oder anderen Rechten.",
+  "limitations_title": "Einschränkungen",
+  "limitations_description": "In keinem Fall sind Tmate.cc oder seine Lieferanten für Schäden (einschließlich, aber nicht beschränkt auf, Schäden durch Datenverlust oder Gewinnverlust oder aufgrund von Geschäftsunterbrechungen) haftbar, die aus der Nutzung oder der Unfähigkeit zur Nutzung der Materialien auf der Internetseite von Tmate.cc entstehen.",
+  "revisions_title": "Überarbeitungen und Druckfehler",
+  "revisions_description": "Die auf der Website von Tmate.cc erscheinenden Materialien können technische, typografische oder fotografische Fehler enthalten. Tmate.cc garantiert nicht, dass die Materialien auf seiner Website genau, vollständig oder aktuell sind.",
+  "links_title": "Links",
+  "links_description": "Tmate.cc hat nicht alle mit seiner Internet-Website verlinkten Seiten überprüft und ist nicht für den Inhalt solcher verlinkten Seiten verantwortlich. Die Aufnahme eines Links impliziert keine Befürwortung der Seite durch Tmate.cc.",
+  "modifications_title": "Änderungen der Nutzungsbedingungen der Website",
+  "modifications_description": "Tmate.cc kann diese Nutzungsbedingungen für seine Website jederzeit ohne Vorankündigung überarbeiten. Durch die Nutzung dieser Website erklären Sie sich damit einverstanden, an die jeweils aktuelle Version dieser Nutzungsbedingungen gebunden zu sein."
+}

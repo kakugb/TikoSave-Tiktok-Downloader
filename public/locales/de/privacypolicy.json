@@ -1,4 +1,24 @@
 {
-    "title": "Datenschutzrichtlinie",
-    "description": "Unsere Datenschutzrichtlinie beschreibt, wie wir Ihre Daten verarbeiten."
-  }
+  "title": "Datenschutzrichtlinie",
+  "description": "Erfahren Sie, wie Tmate.cc mit Ihren persönlichen und nicht-persönlichen Informationen, Cookies und der Datennutzung in unserer Datenschutzrichtlinie umgeht.",
+  "last_revised": "Zuletzt überarbeitet",
+  "revision_date": "5. Mai 2025",
+  "intro_title": "Einführung",
+  "intro": "Bitte nehmen Sie sich einen Moment Zeit, um sich mit unseren Datenschutzpraktiken vertraut zu machen, und kontaktieren Sie uns, wenn Sie Fragen haben.",
+  "personal_info_title": "Persönliche Identifikationsinformationen",
+  "personal_info": "Wir können persönliche Identifikationsinformationen von Nutzern auf verschiedene Weise sammeln, unter anderem, aber nicht ausschließlich, wenn Nutzer unsere Website besuchen, ein Formular ausfüllen oder im Zusammenhang mit anderen Aktivitäten, Dienstleistungen, Funktionen oder Ressourcen, die wir auf unserer Website zur Verfügung stellen. Nutzer können unsere Website anonym besuchen. Wir sammeln persönliche Identifikationsinformationen von Nutzern nur, wenn sie uns diese freiwillig zur Verfügung stellen. Nutzer können sich jederzeit weigern, persönliche Identifikationsinformationen anzugeben, wobei dies sie daran hindern kann, an bestimmten websitebezogenen Aktivitäten teilzunehmen.",
+  "non_personal_info_title": "Nicht-persönliche Identifikationsinformationen",
+  "non_personal_info": "Wir können nicht-persönliche Identifikationsinformationen über Nutzer sammeln, wann immer sie mit unserer Website interagieren. Nicht-persönliche Identifikationsinformationen können den Browsernamen, den Computertyp und technische Informationen über die Verbindungsart der Nutzer zu unserer Website umfassen, wie das Betriebssystem, die verwendeten Internetdienstanbieter und andere ähnliche Informationen.",
+  "cookies_title": "Webbrowser-Cookies",
+  "cookies": "Unsere Website kann „Cookies“ verwenden, um die Nutzererfahrung zu verbessern. Der Webbrowser des Nutzers speichert Cookies auf der Festplatte zu Aufzeichnungszwecken und manchmal, um Informationen über sie zu verfolgen. Nutzer können ihren Webbrowser so einstellen, dass Cookies abgelehnt werden oder sie benachrichtigt werden, wenn Cookies gesendet werden. Beachten Sie, dass in diesem Fall einige Teile der Website möglicherweise nicht ordnungsgemäß funktionieren.",
+  "data_usage_title": "Wie wir gesammelte Informationen verwenden",
+  "data_usage": "Tmate.cc sammelt oder speichert Ihre Daten nicht, Punkt.",
+  "advertising_title": "Werbung",
+  "advertising": "Anzeigen, die auf unserer Website erscheinen, können von Werbepartnern bereitgestellt werden, die Cookies setzen können. Diese Cookies ermöglichen es dem Werbeserver, Ihren Computer jedes Mal zu erkennen, wenn Ihnen eine Online-Werbung gesendet wird, um nicht-persönliche Identifikationsinformationen über Sie oder andere, die Ihren Computer verwenden, zu sammeln. Diese Informationen ermöglichen Werbenetzwerken unter anderem, gezielte Werbung zu liefern, von der sie glauben, dass sie für Sie von größtem Interesse ist. Diese Datenschutzrichtlinie deckt nicht die Verwendung von Cookies durch Werbetreibende ab.",
+  "google_adsense_title": "Google AdSense",
+  "google_adsense": "Einige der Anzeigen können von Google bereitgestellt werden. Googles Verwendung des DART-Cookies ermöglicht es, Nutzern basierend auf ihrem Besuch unserer Website und anderer Websites im Internet Anzeigen zu liefern. DART verwendet „nicht persönlich identifizierbare Informationen“ und verfolgt KEINE persönlichen Informationen über Sie, wie Ihren Namen, Ihre E-Mail-Adresse, Ihre physische Adresse usw. Sie können die Verwendung des DART-Cookies deaktivieren, indem Sie die Datenschutzrichtlinie für Google-Werbe- und Inhaltsnetzwerke unter https://policies.google.com/technologies/ads besuchen.",
+  "policy_changes_title": "Änderungen an dieser Datenschutzrichtlinie",
+  "policy_changes": "Tmate.cc hat das Recht, diese Datenschutzrichtlinie jederzeit zu aktualisieren. Wenn wir dies tun, werden wir eine Benachrichtigung auf der Hauptseite unserer Website veröffentlichen und das aktualisierte Datum am Ende dieser Seite überarbeiten. Wir ermutigen Nutzer, diese Seite regelmäßig auf Änderungen zu überprüfen, um informiert zu bleiben, wie wir die von uns gesammelten persönlichen Informationen schützen. Sie erkennen an und stimmen zu, dass es in Ihrer Verantwortung liegt, diese Datenschutzrichtlinie regelmäßig zu überprüfen und sich über Änderungen zu informieren.",
+  "acceptance_title": "Ihre Zustimmung zu diesen Bedingungen",
+  "acceptance": "Durch die Nutzung dieser Website erklären Sie Ihr Einverständnis mit dieser Richtlinie. Wenn Sie mit dieser Richtlinie nicht einverstanden sind, nutzen Sie unsere Website bitte nicht. Ihre fortgesetzte Nutzung der Website nach der Veröffentlichung von Änderungen an dieser Richtlinie gilt als Ihre Zustimmung zu diesen Änderungen."
+}

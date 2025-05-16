@@ -3,36 +3,21 @@ import { initReactI18next } from 'react-i18next';
 import LanguageDetector from 'i18next-browser-languagedetector';
 import HttpApi from 'i18next-http-backend';
 
-// Define the custom detector
-const customDetector = {
-  name: 'custom',
-  lookup() {
-    return 'en'; // Always return 'en' as the default
-  },
-};
-
 i18n
   .use(HttpApi)
-  .use(
-    new LanguageDetector(null, {
-      order: ['custom', 'cookie', 'localStorage', 'path', 'subdomain', 'htmlTag'],
-      caches: ['cookie'],
-      lookupCookie: 'i18next',
-      lookupLocalStorage: 'i18nextLng',
-    }).addDetector(customDetector) // Add the custom detector
-  )
+  .use(LanguageDetector) // No custom detectors
   .use(initReactI18next)
   .init({
-    supportedLngs: ['en', 'de', 'id', 'uk', 'ko', 'ja', 'pl', 'ar', 'nl', 'tr', 'pt', 'es', 'fr'],
+    supportedLngs: ['en', 'de', 'id', 'uk', 'ko', 'ja', 'pl', 'ar', 'nl', 'tr', 'pt', 'it', 'es', 'fr'],
     fallbackLng: 'en',
     detection: {
-      order: ['custom', 'cookie', 'localStorage', 'path', 'subdomain', 'htmlTag'],
+      order: ['querystring', 'cookie', 'localStorage', 'navigator', 'htmlTag'],
       caches: ['cookie'],
     },
     backend: {
       loadPath: '/locales/{{lng}}/{{ns}}.json',
     },
-    debug: true, // Enable debug to log detection details
+    debug: true,
   });
 
 export default i18n;
