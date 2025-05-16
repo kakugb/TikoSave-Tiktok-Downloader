@@ -1,10 +1,277 @@
 {
+  "heroSection": {
+    "title": "Pengunduh Video TikTok",
+    "description": "Pengunduh TikTok, Unduh Video TikTok Tanpa Watermark (TikTok MP3 & MP4)",
+    "inputPlaceholder": "Tempel tautan TikTok di sini",
+    "pasteButton": "Tempel",
+    "downloadButton": "Unduh"
+  },
+  "appDownloadSection": {
+    "title": "Unduh Aplikasi TikoSave di Android",
+    "description": "Aplikasi pengunduh TikTok tersedia untuk mengunduh video TikTok dengan lebih mudah jika Anda sering menggunakannya."
+  },
+  "introductionSection": {
+    "title": "Pengenalan TikTokio: Pengunduh TikTok Tanpa Watermark",
+    "paragraphs": [
+      "Alat pengunduh TikTok bermunculan di pasar satu per satu. Namun, tidak semuanya nyaman digunakan. Beberapa memiliki kecepatan unduh yang lambat, sementara yang lain meminta pengguna untuk membayar. Oleh karena itu, tim kami telah mengembangkan TikTokio. Ini adalah pengunduh TikTok baru yang memungkinkan pengguna untuk mengunduh video TikTok dalam kualitas HD tanpa pembayaran.",
+      "TikTokio adalah pengunduh video TikTok online yang 100% gratis. Tujuannya adalah membantu pengguna mengunduh video TikTok (musikal) tanpa watermark. Prosesnya memakan waktu kurang dari 5 detik. Anda dapat menemukan penyimpan TikTok kami di berbagai perangkat, seperti desktop, tablet, PC, dan ponsel. Semua orang dapat menyimpan video TikTok dalam format MP4 dan kemudian membagikannya dengan keluarga atau teman.",
+      "TikTokio bukan hanya pengunduh MP4 TikTok. Dengan TikTokio, pengguna juga dapat mengekstrak file audio (MP3) dari video TikTok dengan mudah. Ini memberi mereka kesempatan untuk mengunduh MP3 TikTok, musik, dan lagu dengan kualitas terbaik secara bebas. Cocok untuk nada dering ponsel."
+    ]
+  },
+  "howToDownloadSection": {
+    "title": "Cara Mengunduh Video TikTok Tanpa Watermark Secara Online",
+    "description": "Mengunduh video TikTok dengan TikoSave sangat sederhana. Yang Anda butuhkan hanyalah mendapatkan tautan video TikTok yang ingin Anda unduh. Alat pengunduh TikTok kami akan melakukan sisanya untuk Anda. Untuk mengetahui langkah-langkah terperinci, silakan ikuti petunjuk di bawah ini.",
+    "steps": [
+      {
+        "title": "Temukan Video TikTok yang Akan Disimpan",
+        "description": "Buka aplikasi TikTok di perangkat Anda dan putar video yang ingin Anda unduh. Ketuk tombol 'Bagikan' di kanan bawah halaman video dan pilih 'Salin Tautan'.",
+        "image": "/search.webp"
+      },
+      {
+        "title": "Tempel Tautan Video TikTok",
+        "description": "Kunjungi situs pengunduh TikTok kami (https://tikosave.com) atau buka aplikasi TikTokio. Kemudian, tempel tautan video di kotak masukan di atas. Setelah itu, klik tombol 'Unduh'.",
+        "image": "/paste.webp"
+      },
+      {
+        "title": "Pilih Format dan Unduh",
+        "description": "Pilih format yang Anda inginkan dan klik opsi yang diinginkan. Beberapa opsi tersedia: 'Unduh Tanpa Watermark', 'Unduh dengan Watermark', 'Unduh MP3', dll.",
+        "image": "/download.webp"
+      }
+    ]
+  },
+  "whyNeedDownloaderSection": {
+    "title": "Mengapa Anda Membutuhkan Pengunduh TikTok",
+    "paragraphs": [
+      "Ada beberapa alasan mengapa Anda mungkin memerlukan pengunduh video TikTok seperti TikoSave. Pengunduh TikTok berguna untuk mengunduh video TikTok tanpa watermark secara offline, berbagi konten dengan orang lain dengan mudah, menyimpan video favorit Anda jika video tersebut dihapus oleh platform, dan memfasilitasi pengeditan serta remix konten lebih lanjut. Ini meningkatkan pengalaman pengguna dan memungkinkan kenyamanan serta kreativitas yang lebih besar.",
+      "Dengan pengunduh TikTok ini, pembuat konten dapat dengan mudah menyimpan video TikTok mereka tanpa logo atau ID TikTok dan membagikannya di Facebook, YouTube Shorts, Instagram, dan platform sosial lainnya untuk memperluas jangkauan mereka.",
+      "Secara keseluruhan, pengunduh video TikoSave kami sederhana, cepat, dan gratis untuk digunakan. Anda dapat mengunduh video TikTok tanpa watermark ke perangkat apa pun yang Anda inginkan dan menyimpannya dalam format MP4 atau MP3 dengan kualitas HD. Telah teruji bahwa penghapus watermark TikTok ini bekerja dengan baik di sistem Android dan iOS (iPhone dan iPad). Cukup salin dan tempel!"
+    ]
+  },
+  "downloadOnAndroidSection": {
+    "title": "Cara Mengunduh Video TikTok Tanpa Watermark di Ponsel (Android)",
+    "description": "Mengunduh video TikTok (MP4/MP3) ke ponsel Android dengan TikoSave cukup sederhana. Jika Anda ingin menghapus watermark atau logo TT dari video dan menyimpannya di Android, ikuti petunjuk di bawah ini:",
+    "steps": [
+      "Temukan video TikTok yang ingin Anda unduh tanpa watermark dan putar",
+      "Klik tombol 'Bagikan' di sisi kanan dan salin tautan video",
+      "Buka peramban di ponsel Android Anda dan kunjungi tiktokio.com. Tempel tautan unduhan video ke dalam kotak teks",
+      "Tekan tombol biru 'Unduh' dan berbagai opsi akan muncul. Pilih yang Anda inginkan"
+    ]
+  },
+  "downloadOnPCSection": {
+    "title": "Unduh Video TikTok ke PC",
+    "description": "Langkah-langkah untuk mengunduh video TikTok ke PC atau laptop mirip dengan mengunduh ke ponsel Android. Cukup ganti 'ponsel Android' dengan 'komputer pribadi'. Penghapus watermark TikTok kami kompatibel dengan berbagai sistem operasi: Windows, Linux, dan Mac OS."
+  },
+  "downloadOnIOSSection": {
+    "title": "Unduh Video TikTok Tanpa Watermark di iOS (iPhone atau iPad)",
+    "paragraphs": [
+      "Tim kami menyadari bahwa banyak pengguna iPhone mungkin mengalami masalah saat menggunakan pengunduh TikTok lain untuk menyimpan video TikTok favorit mereka tanpa watermark.",
+      "Untuk mengatasi masalah ini, kami telah meningkatkan teknologi kami dan menjadikan TikTokio sebagai pengunduh video TikTok yang serbaguna untuk pengguna Android dan iOS.",
+      "Berikut adalah langkah-langkahnya:"
+    ],
+    "steps": [
+      "Dapatkan tautan video TikTok favorit Anda",
+      "Kunjungi tiktokio.com dengan aplikasi Safari di iPhone atau iPad Anda",
+      "Tempel tautan video di kotak dan klik tombol 'Unduh'",
+      "Pengunduhan akan dimulai setelah memilih format (MP4/MP3)."
+    ]
+  },
+  "downloadMP3Section": {
+    "title": "Cara Mengunduh MP3 atau Musik TikTok (Mengekstrak File Audio dari Video TikTok)?",
+    "paragraphs": [
+      "Banyak orang mencari cara untuk menyimpan video TikTok favorit mereka dalam format MP3. Dengan TikoSave, ini bukan lagi masalah.",
+      "Langkah-langkah berikut akan memandu Anda tentang cara mengunduh MP3 TikTok, lagu, musik, dan file audio dengan TikTokio dalam beberapa detik."
+    ],
+    "steps": [
+      "Buka aplikasi/situs web TT di perangkat Anda dan putar video dengan audio/musik yang ingin Anda simpan.",
+      "Ketuk tombol 'Bagikan' di sisi kanan halaman video",
+      "Pilih 'Salin Tautan' setelah menu muncul. Setelah itu, URL video akan disalin ke papan klip Anda",
+      "Kunjungi situs web TikoSave (pengunduh TikTok kami) dan tempel tautan video yang disalin ke dalam kotak masukan",
+      "Klik tombol 'Unduh' dan Anda akan melihat berbagai opsi. Opsi 'Unduh MP3' biasanya terletak di urutan terakhir.",
+      "Tekan tombol 'Unduh MP3' dan konversi akan selesai dalam 5 detik. Anda akan melihat musik atau lagu TikTok yang diunduh di folder unduhan default."
+    ]
+  },
+  "prosAndConsSection": {
+    "title": "Kelebihan & Kekurangan SaveTiko",
+    "pros": {
+      "title": "Kelebihan",
+      "items": [
+        "Simpan video TikTok tanpa logo atau watermark untuk tampilan yang bersih.",
+        "Tidak ada biaya tersembunyi, langganan, atau pendaftaran yang diperlukan.",
+        "Cukup salin, tempel, dan unduh dalam hitungan detik—tanpa langkah rumit.",
+        "Mendukung unduhan video dalam kualitas HD dan resolusi asli.",
+        "Gunakan di PC, Mac, Android, dan iPhone dengan peramban apa pun.",
+        "Alat 100% online, tidak perlu mengunduh perangkat lunak tambahan.",
+        "Simpan sebanyak mungkin video TikTok tanpa batas.",
+        "Konversi video TikTok menjadi file MP3 dan unduh hanya suaranya.",
+        "Tidak ada pengumpulan data pribadi; unduhan Anda bersifat pribadi."
+      ]
+    },
+    "cons": {
+      "title": "Kekurangan",
+      "items": [
+        "Tidak memiliki aplikasi seluler; hanya berfungsi melalui peramban web.",
+        "Membutuhkan koneksi internet yang stabil untuk memproses unduhan.",
+        "Di iOS, Anda mungkin perlu memindahkan file secara manual dari aplikasi File ke aplikasi Foto."
+      ]
+    }
+  },
+  "comparisonSection": {
+    "title": "Bandingkan TikoSave dengan Alat Pengunduh TikTok Lain",
+    "paragraphs": [
+      "Pasar situs web pengunduh TikTok semakin kompetitif. Banyak alat pengunduh video TT telah dikembangkan. Namun, TikoSave menonjol sebagai pilihan populer. Ini menawarkan unduhan cepat dan berkualitas tinggi tanpa gangguan, kemudahan penggunaan, konversi tanpa batas, dan keserbagunaan di berbagai perangkat.",
+      "Manfaat Menggunakan TikoSave Dibandingkan Pengunduh Video TikTok Lain"
+    ],
+    "benefits": [
+      "Unduhan cepat dan berkualitas tinggi: TikTokio memungkinkan pengguna mengunduh video TikTok HD dengan sedikit usaha. Proses unduhan/konversi berlangsung kurang dari 5 detik.",
+      "100% gratis: Pengunduh TikTok kami selalu gratis untuk digunakan. Pengguna dapat menyimpan video TikTok tanpa watermark tanpa batas di Android atau iPhone mereka. Tanpa biaya tersembunyi.",
+      "Tanpa watermark: Pengguna dapat mengunduh video TikTok tanpa watermark untuk kualitas yang lebih baik.",
+      "Antarmuka yang ramah pengguna: Antarmuka sederhana membuat pengunduhan video TikTok mudah dan efisien.",
+      "Format MP3/MP4: TikoSave mendukung layanan pengunduhan video TikTok dalam format MP4 dan MP3.",
+      "Kompatibel dengan banyak perangkat: Anda dapat mengakses pengunduh TikTok kami dengan banyak perangkat (misalnya, komputer pribadi, tablet, dan ponsel cerdas).",
+      "Penyimpan TikTok yang aman tanpa virus: Informasi pribadi Anda tidak akan diungkapkan karena Anda tidak perlu mendaftar atau masuk untuk menggunakan pengunduh TikTok."
+    ]
+  },
+  "userReviewsSection": {
+    "title": "Ulasan Pengguna untuk TikoSave – Pengunduh Video TikTok Terbaik",
+    "reviews": [
+      {
+        "name": "John D.",
+        "flag": "https://flagcdn.com/w40/us.png",
+        "stars": "★★★★★",
+        "comment": "Saya sudah mencoba beberapa pengunduh TikTok, tapi TikoSave jauh lebih cepat!"
+      },
+      {
+        "name": "Emma R.",
+        "flag": "https://flagcdn.com/w40/gb.png",
+        "stars": "★★★★★",
+        "comment": "TikoSave luar biasa! Gratis, cepat, dan tidak memerlukan instalasi."
+      },
+      {
+        "name": "Carlos M.",
+        "flag": "https://flagcdn.com/w40/es.png",
+        "stars": "★★★★☆",
+        "comment": "Berfungsi dengan baik, tapi saya harap ada versi aplikasi seluler. Selain itu, sempurna!"
+      },
+      {
+        "name": "Sophia L.",
+        "flag": "https://flagcdn.com/w40/ca.png",
+        "stars": "★★★★★",
+        "comment": "Sangat mudah digunakan, dan saya suka tidak ada iklan atau pop-up. 10/10!"
+      },
+      {
+        "name": "Liam K.",
+        "flag": "https://flagcdn.com/w40/au.png",
+        "stars": "★★★★☆",
+        "comment": "Cepat dan andal! Saya hanya berharap bisa digunakan offline juga. Tetap saja, kerja bagus!"
+      },
+      {
+        "name": "Mia P.",
+        "flag": "https://flagcdn.com/w40/de.png",
+        "stars": "★★★★★",
+        "comment": "Tanpa watermark dan unduhan cepat! Saya sudah merekomendasikannya ke semua teman saya."
+      },
+      {
+        "name": "Hiroshi T.",
+        "flag": "https://flagcdn.com/w40/jp.png",
+        "stars": "★★★★★",
+        "comment": "Berfungsi sempurna di Jepang! Unduhan sangat cepat dengan kualitas tinggi."
+      },
+      {
+        "name": "Fatima A.",
+        "flag": "https://flagcdn.com/w40/sa.png",
+        "stars": "★★★★★",
+        "comment": "Akhirnya, pengunduh TikTok yang berfungsi tanpa masalah! Saya suka!"
+      }
+    ]
+  },
+  "otherContentSection": {
+    "title": "Cara Mengunduh Jenis Konten TikTok Lain",
+    "photoSlideshow": {
+      "title": "Unduh Foto atau Slideshow Gambar TikTok",
+      "paragraphs": [
+        "Saat ini, konten yang diposting di TikTok tidak terbatas pada video pendek. TikTok resmi telah meluncurkan bentuk konten baru seperti slideshow foto dan cerita. Oleh karena itu, muncul kebutuhan untuk mengunduh foto atau slideshow gambar TikTok.",
+        "Kami telah menambahkan fitur ini ke situs web pengunduh TikTok kami (tikosave.com). Jadi, Anda dapat mengunduh foto TikTok tanpa watermark ke perangkat Anda secara bebas."
+      ]
+    },
+    "stories": {
+      "title": "Unduh Cerita TikTok",
+      "paragraphs": [
+        "Cerita adalah fitur baru TikTok lainnya. Ini memungkinkan pembuat konten untuk berbagi video hingga 15 detik di profil mereka. Video tersebut akan hilang setelah 24 jam sejak waktu posting. Banyak orang mencari cara untuk mengunduhnya tanpa watermark.",
+        "Namun, kami belum mengintegrasikan fitur ini ke situs web kami. Jadi, saat ini, pengguna tidak dapat mengunduh cerita TikTok favorit mereka di TikoSave. Kami berjanji ini akan segera hadir."
+      ]
+    }
+  },
+  "responsibleUseSection": {
+    "title": "Tips untuk Menggunakan Pengunduh TikTok Secara Bertanggung Jawab",
+    "paragraphs": [
+      "Mengunduh video TikTok dengan TikTokio atau pengunduh serupa sangat praktis. Namun, penting untuk menggunakan layanan ini secara bertanggung jawab. Saat menikmati atau berbagi konten secara offline, hormati hak pencipta. Selalu patuhi standar etis dan hukum.",
+      "Berikut adalah beberapa tips untuk menggunakan TikTokio secara bertanggung jawab:"
+    ],
+    "tips": [
+      {
+        "title": "Hormati Hak Cipta",
+        "description": "Video TikTok dilindungi oleh hak cipta pembuatnya. Pastikan Anda mendapatkan izin sebelum menyimpan video TikTok tanpa watermark. Jangan gunakan video atau musik yang diunduh untuk tujuan komersial tanpa persetujuan."
+      },
+      {
+        "title": "Gunakan untuk Pertumbuhan Pribadi atau Tujuan Pendidikan",
+        "description": "TikTokio dan pengunduh video TikTok lainnya berguna untuk pertumbuhan pribadi atau pendidikan. Anda dapat mengunduh konten informatif untuk pemutaran offline atau referensi."
+      },
+      {
+        "title": "Berikan Kredit",
+        "description": "Jika Anda ingin membagikan video atau audio yang diunduh di platform media sosial lain, berikan kredit kepada pembuat konten asli. Anda dapat menyebutkan nama pengguna TikTok mereka atau menautkan ke profil mereka."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "FAQ – Pengunduh Video TikTok SaveTiko",
+    "note": "TikoSave (Pengunduh Video TikTok) bukan alat dari TikTok dan kami tidak memiliki hubungan dengan TikTok atau ByteDance Ltd. Kami hanya mendukung pengguna TikTok untuk mengunduh video di TikTok tanpa logo dengan mudah. Harap jangan melanggar hak cipta orang lain saat menggunakan situs pengunduh TikTok. Jika Anda mengalami masalah dengan situs seperti SnapTik, TikMate, atau SSSTikTok, coba TikoSave! Kami terus memperbarui untuk memudahkan pengguna mengunduh video TikTok secara GRATIS. Terima kasih!",
+    "questions": [
+      "Apa itu TikoSave?",
+      "Apakah TikoSave pengunduh video TikTok yang aman?",
+      "Bagaimana cara mengunduh video TikTok tanpa watermark?",
+      "Apakah saya perlu menginstal perangkat lunak atau aplikasi untuk menggunakan TikoSave?",
+      "Bisakah saya menyimpan video TikTok dalam format MP4?",
+      "Di mana saya bisa menemukan tautan video TikTok untuk diunduh?",
+      "Bagaimana cara mengunduh video TikTok ke komputer (PC atau laptop)?",
+      "Apakah TikoSave memungkinkan pengunduhan audio TikTok sebagai MP3?",
+      "Apakah TikoSave alat yang aman untuk mengunduh video TikTok?",
+      "Bagaimana cara mengunduh video TikTok di iPhone atau iPad?",
+      "Apakah saya harus membayar untuk mengunduh video TikTok?",
+      "Bisakah saya mengunduh video TikTok pribadi?",
+      "Bagaimana cara menyimpan video TikTok di ponsel Android saya?",
+      "Bisakah saya mengunduh video TikTok dalam kualitas tinggi?",
+      "Apakah saya memerlukan akun TikTok untuk mengunduh video atau audio?",
+      "Bagaimana cara menghapus watermark atau logo TikTok dari video?"
+    ],
+    "answers": [
+      "TikoSave adalah pengunduh TikTok gratis yang tersedia secara online. Ini membantu pengguna menyimpan video TikTok tanpa watermark atau mengonversi video TikTok ke file MP3 dengan beberapa klik. Kemudahan penggunaan dan unduhan berkualitas tinggi menjadikannya penyimpan TikTok populer di kalangan penggemar TT.",
+      "Ya, TikoSave adalah pengunduh video TikTok yang 100% aman untuk digunakan. Kami memiliki sertifikat SSL aktif untuk memastikan keamanan privasi pengguna.",
+      "Mengunduh video TikTok tanpa watermark mudah dengan TikoSave. Cukup salin tautan video dari TikTok, tempelkan ke kotak masukan di situs web kami, dan klik tombol unduh. Video Anda akan diproses dan disimpan tanpa logo TikTok. Tidak perlu aplikasi tambahan atau pendaftaran!",
+      "Tidak, TikoSave adalah alat 100% online, jadi tidak perlu menginstal perangkat lunak atau aplikasi. Anda dapat mengaksesnya langsung dari peramban web di ponsel, tablet, atau komputer Anda. Cukup kunjungi situs web, tempel tautan video TikTok, dan unduh video dalam hitungan detik.",
+      "Ya, semua video TikTok yang diunduh melalui TikoSave otomatis disimpan dalam format MP4, yang didukung oleh semua perangkat. File MP4 menawarkan pemutaran berkualitas tinggi dan berfungsi di ponsel cerdas, laptop, dan tablet. Anda tidak perlu mengonversi format secara terpisah.",
+      "Untuk mendapatkan tautan video TikTok, buka aplikasi atau situs web TikTok dan temukan video yang ingin Anda unduh. Ketuk tombol Bagikan, lalu pilih Salin Tautan dari opsi. Setelah disalin, tempelkan ke kotak unduhan TikoSave untuk memulai proses unduhan.",
+      "Mengunduh video TikTok di PC atau laptop mudah dengan TikoSave. Buka TikTok di peramban web Anda, salin tautan video yang Anda inginkan, dan tempelkan ke kotak unduhan TikoSave. Klik tombol unduh, pilih kualitas video, dan video akan disimpan ke folder Unduhan Anda.",
+      "Ya! Jika Anda ingin menyimpan hanya audio dari video TikTok, TikoSave memungkinkan Anda untuk mengonversi dan mengunduhnya sebagai file MP3. Cukup tempel tautan video TikTok, pilih opsi MP3, dan unduh suara secara terpisah untuk didengarkan offline.",
+      "Ya, TikoSave sepenuhnya aman dan terjamin untuk digunakan. Kami tidak menyimpan data pengguna, dan unduhan dilakukan langsung dari server TikTok. Tidak perlu login atau izin, menjadikannya cara yang privat dan bebas risiko untuk menyimpan video TikTok.",
+      "Pengguna iPhone dan iPad dapat mengunduh video TikTok menggunakan TikoSave melalui Safari atau aplikasi pengelola file. Salin tautan video TikTok, tempelkan ke TikoSave, dan unduh file. Pada beberapa versi iOS, video disimpan di File, bukan Foto, jadi Anda mungkin perlu memindahkannya secara manual.",
+      "Tidak, TikoSave adalah alat yang sepenuhnya gratis, dan Anda dapat mengunduh video TikTok tanpa batas tanpa biaya. Tidak ada biaya tersembunyi, langganan, atau kebutuhan untuk membuat akun. Cukup tempel tautan video dan unduh secara instan.",
+      "Tidak, TikoSave hanya memungkinkan pengunduhan video TikTok publik. Jika akun TikTok diatur ke pribadi, videonya tidak dapat diakses atau diunduh. Hanya video yang tersedia secara publik yang dapat disimpan menggunakan alat kami.",
+      "Untuk mengunduh video TikTok di Android, buka aplikasi TikTok dan salin tautan video yang ingin Anda simpan. Kunjungi TikoSave di peramban Anda, tempel tautan ke kotak masukan, dan ketuk tombol unduh. Video akan disimpan ke galeri atau folder unduhan Anda tanpa watermark.",
+      "Ya, TikoSave menyediakan unduhan video TikTok berkualitas HD. Alat ini memungkinkan Anda mengunduh resolusi terbaik yang tersedia dari video. Ini memastikan video yang disimpan jelas, tajam, dan sempurna untuk ditonton offline.",
+      "Tidak, Anda tidak memerlukan akun TikTok untuk mengunduh video menggunakan TikoSave. Alat kami berfungsi tanpa login—cukup salin tautan video dan tempelkan ke situs web untuk memulai unduhan. Ini membuatnya cepat, sederhana, dan bebas repot.",
+      "TikoSave secara otomatis menghapus watermark TikTok saat Anda mengunduh video. Cukup salin tautan video TikTok, tempelkan di situs web kami, dan unduh versi bersih dari video tanpa logo atau merek."
+    ]
+  },
+  "general": {
+    "saveTiktokVideo": "Simpan Video TikTok",
+    "tiktokMp3": "Pengunduh MP3 TikTok",
     "appName": "Aplikasi Saya",
     "home": "Beranda",
     "contactUs": "Hubungi Kami",
     "termsOfUse": "Syarat Penggunaan",
     "privacyPolicy": "Kebijakan Privasi",
-    "footerText": "© 2025 Aplikasi Saya. Hak cipta dilindungi.",
+    "footerText": "© 2025 Aplikasi Saya. Semua hak dilindungi.",
     "welcome": "Selamat Datang di Aplikasi Saya",
     "homeDescription": "Ini adalah halaman beranda aplikasi kami."
   }
+}
