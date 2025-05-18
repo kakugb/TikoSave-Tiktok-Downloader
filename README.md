@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📥 Tiktok Video Downloader
 
-## Getting Started
+**Tiktok Video Downloader** is a sleek and efficient web application built using the **MERN stack** (MongoDB, Express, Nextjs, Nest.js) that allows users to download videos directly from Tiktok by simply pasting the video link. Styled beautifully with **Tailwind CSS**, it offers a seamless user experience with instant downloads and a modern interface.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
+- 🔗 **Paste and Download:** Just paste the Tiktok video link and download it directly with a single click.
+- ⚡ **Direct Download:** Videos download directly without navigating to another page.
+- 🎨 **Beautiful UI:** Styled with **Tailwind CSS** for a clean and modern look.
+- 🔄 **Loading Spinner:** Displays a smooth loading animation during the download process.
+- 📂 **Automatic Folder Management:** Downloads are saved automatically in the server’s `downloads` folder.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 💻 Tech Stack
+- **Frontend:** nextjs, Axios, Tailwind CSS
+- **Backend:** Nest.js, Express, Cheerio, Axios
+- **Development Tools:** Nodemon for live reloading
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ⚙️ Installation and Setup
 
-To learn more about Next.js, take a look at the following resources:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/kakugb/TikoSave-Tiktok-Downloader.git
+   cd TikoSave-Downloader
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   cd backend
+npm install
+npm install nodemon -D
+npm start  // or run with nodemon
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+cd ../frontend
+npm install
+npm start
 
-## Deploy on Vercel
+🚧 Requirements
+Node.js v14.x or above
+MongoDB (Optional if planning to add user history or logs)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🔥 How It Works
+Paste Link: User pastes the Tiktok video link.
+Fetch and Extract: The backend scrapes the Tiktok page to extract the video URL.
+Download and Serve: The video is downloaded on the server and served as a direct download to the user.
+Direct Download: The frontend triggers the download without redirecting to another page.
+
+🎨 UI Design and User Experience
+Modern and responsive UI built using Tailwind CSS.
+Clean input field for pasting Pinterest links.
+Animated loading spinner for a smooth experience.
+Direct download without showing extra messages.
+
+🔒 Legal Disclaimer
+This project is intended for educational purposes only. Downloading videos from Pinterest may violate their terms of service and copyright laws. Use responsibly.
+
+🌟 Future Enhancements
+🌐 Multiple Language Support
+📂 Download History with MongoDB
+⚡ Faster Downloads with Caching
+🎥 Preview Video Before Downloading
+
+🤝 Contributing
+Feel free to contribute to this project by opening issues or pull requests. Contributions, issues, and feature requests are welcome!
+
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+
+
+🧡 Support
+If you like this project, please ⭐ star the repository and share it with others. Contributions, issues, and feature requests are welcome!
+
+   
